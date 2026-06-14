@@ -1,7 +1,7 @@
 # 📊 Power BI Sales Analytics Dashboard
 
 ## 🔗 Live Dashboard
-👉 **View Live Dashboard:** https://your-live-dashboard-link.com
+👉 **View Live Dashboard:https://datavisualization-cecae1.netlify.app
 
 ---
 
