@@ -184,13 +184,16 @@ This helps businesses optimize payment experiences.
 ## 📷 Dashboard Preview
 
 ### 2023 Dashboard
-![2023 Dashboard](images/2023-dashboard.jpg)
+![2023 Dashboard]<img width="1202" height="651" alt="S" src="https://github.com/user-attachments/assets/c5cda625-7d95-4ee4-8114-5d6a7550368f" />
+
 
 ### 2024 Dashboard
-![2024 Dashboard](images/2024-dashboard.jpg)
+![2024 Dashboard]<img width="1188" height="686" alt="SS" src="https://github.com/user-attachments/assets/1fc70086-efeb-41ac-b63a-d63c5d1cc44f" />
+
 
 ### 2025 Dashboard
-![2025 Dashboard](images/2025-dashboard.jpg)
+![2025 Dashboard]<img width="1180" height="677" alt="SSS" src="https://github.com/user-attachments/assets/dd3d5f8e-2386-40ef-9ed7-6cab2dae9b04" />
+
 
 ---
 
